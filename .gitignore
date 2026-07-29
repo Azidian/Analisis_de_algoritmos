@@ -1,0 +1,9 @@
+# Archivos ejecutables y compilados
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# Carpeta de configuración de Visual Studio Code
+.vscode/
