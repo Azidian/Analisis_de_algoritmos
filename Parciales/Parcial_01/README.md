@@ -33,6 +33,28 @@ Este sistema basa el núcleo de su procedimiento en **C = A × B**:
 
 ---
 
+## Formato del Archivo de Datos (Opción 7)
+
+Para que la **Opción 7** (Gestionar datos por archivo) pueda cargar la información correctamente, el documento debe cumplir estrictamente con las siguientes reglas:
+
+1. El archivo debe llamarse **`datos_matrices.txt`** y estar en la misma carpeta donde se ejecuta el programa.
+2. Debe indicarse la letra de la matriz (`A` o `B`) en mayúscula y sola en una línea.
+3. Seguido de la letra, deben estar los 9 valores correspondientes a esa matriz (enteros o decimales), separados por espacios.
+
+**Ejemplo del interior de `datos_matrices.txt`:**
+```text
+A
+2.00 4.00 6.00 
+2.00 5.00 6.00 
+2.00 4.00 6.00 
+B
+1.00 3.00 5.00 
+1.00 4.00 5.00 
+1.00 3.00 6.00
+```
+
+_Nota: Puedes incluir solo la matriz A, solo la matriz B, o ambas en el mismo archivo siguiendo este formato_
+
 ## Estructura del Proyecto
 
 El repositorio está organizado en 7 archivos fuente que separan la declaración (`.h`) de la implementación (`.cpp`):
