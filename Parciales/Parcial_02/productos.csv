@@ -1,0 +1,56 @@
+id,nombre,categoria,presentacion,precio
+1,Arroz,Granos,1 Libra,2500
+2,Aceite de girasol,Despensa,1000 ml,12500
+3,Leche entera,Lacteos,1100 ml,4300
+4,Papa pastusa,Frutas y Verduras,1 Libra,1900
+5,Frijol rojo,Granos,1 Libra,4200
+6,Papel higienico,Aseo,x4 rollos,8900
+7,Pechuga de pollo,Carnes,Bandeja 500 g,14900
+8,Chocolatina,Mekato,x1 unidad,1600
+9,Sal refinada,Despensa,500 g,1800
+10,Huevos AA,Lacteos,x12 unidades,13500
+11,Lentejas,Granos,1 Libra,3800
+12,Garbanzo,Granos,1 Libra,5200
+13,Arveja verde seca,Granos,1 Libra,4500
+14,Avena en hojuelas,Granos,500 g,4800
+15,Maiz trillado,Granos,1 Libra,3200
+16,Azucar blanca,Despensa,1 Libra,2600
+17,Panela,Despensa,1 Libra,2200
+18,Harina de trigo,Despensa,500 g,3100
+19,Salsa de tomate,Despensa,Botella 400 g,6200
+20,Atun en lata,Despensa,Lata 170 g,5400
+21,Yogurt natural,Lacteos,Botella 1000 ml,8900
+22,Queso campesino,Lacteos,Bandeja 250 g,9500
+23,Mantequilla,Lacteos,Barra 250 g,7200
+24,Kumis,Lacteos,1000 ml,6800
+25,Crema de leche,Lacteos,Caja 200 g,4100
+26,Carne de res molida,Carnes,Bandeja 500 g,18500
+27,Chuleta de cerdo,Carnes,Bandeja 500 g,16200
+28,Costilla de res,Carnes,Bandeja 1 kg,32000
+29,Pescado tilapia,Carnes,Bandeja 500 g,22000
+30,Chorizo santarrosano,Carnes,x6 unidades,11800
+31,Salchichas,Carnes,x10 unidades,9800
+32,Tomate chonto,Frutas y Verduras,1 Libra,2100
+33,Cebolla cabezona,Frutas y Verduras,1 Libra,2400
+34,Platano verde,Frutas y Verduras,1 unidad,1500
+35,Zanahoria,Frutas y Verduras,1 Libra,1700
+36,Manzana roja,Frutas y Verduras,1 Libra,3200
+37,Aguacate hass,Frutas y Verduras,1 unidad,2800
+38,Detergente en polvo,Aseo,1 kg,9800
+39,Jabon de bano,Aseo,x3 unidades,6500
+40,Lavaloza liquido,Aseo,750 ml,7300
+41,Cloro desinfectante,Aseo,1000 ml,5600
+42,Suavizante de telas,Aseo,900 ml,8200
+43,Escoba plastica,Aseo,1 unidad,12500
+44,Papas fritas,Mekato,Bolsa 150 g,5600
+45,Galletas de chocolate,Mekato,x6 unidades,4200
+46,Gomitas,Mekato,Bolsa 100 g,3200
+47,Mani salado,Mekato,Bolsa 200 g,4800
+48,Torta de chocolate,Mekato,1 unidad,6900
+49,Bombones surtidos,Mekato,Bolsa 300 g,7500
+50,Ron,Licores,Botella 750 ml,48000
+51,Aguardiente,Licores,Botella 750 ml,42000
+52,Whisky,Licores,Botella 750 ml,89000
+53,Vino tinto,Licores,Botella 750 ml,35000
+54,Cerveza,Licores,x6 unidades,21000
+55,Vodka,Licores,Botella 750 ml,65000
